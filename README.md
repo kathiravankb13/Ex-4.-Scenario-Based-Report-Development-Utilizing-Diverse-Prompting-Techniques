@@ -259,17 +259,6 @@ The chatbot was tested with **diverse customer queries** (e.g., product availabi
    * Delivered the **best overall results**.
    * Handled customer complaints and inquiries with **context awareness** and **personalization**.
 
-**Performance Comparison Table**
-
-| Prompting Technique | Accuracy | Relevance | Personalization | User Experience | Overall Effectiveness |
-| ------------------- | -------- | --------- | --------------- | --------------- | --------------------- |
-| Zero-Shot           | ★★☆☆☆    | ★★☆☆☆     | ★☆☆☆☆           | ★★☆☆☆           | Low                   |
-| Few-Shot            | ★★★★☆    | ★★★★☆     | ★★★☆☆           | ★★★★☆           | High                  |
-| Role-Based          | ★★★★☆    | ★★★★☆     | ★★★★☆           | ★★★★☆           | High                  |
-| Chain-of-Thought    | ★★★★☆    | ★★★★☆     | ★★★☆☆           | ★★★★☆           | High                  |
-| Scenario-Driven     | ★★★★★    | ★★★★★     | ★★★★★           | ★★★★★           | Very High             |
-
----
 
 ## Conclusion
 
